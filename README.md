@@ -1,2 +1,2 @@
 # learnjavascript
-Noting of topics of nuances and intricacies. 
+Personal notes of topics of nuances and intricacies. 
