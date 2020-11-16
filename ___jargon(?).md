@@ -3,3 +3,5 @@
 **"mutatation"** Change of parts.
 
 Similarly **mutate** etc..
+
+**"throw an error"** Result in an error.
