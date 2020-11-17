@@ -31,6 +31,8 @@ String.prototype.reversed = function() {
 s.reversed(); // nomiS
 ```
 
+So if I execute `console.log(String.prototype)`, it should show me all the methods therein?
+
 >Our new method even works on string literals!
 
 ```javascript
