@@ -8,4 +8,4 @@
 
 **"parse"** Process.
 
-**"literal"** A fixed value appearing as is. E.g. in `Let s = "Any string"`, `"Any string"` is a (string) literal; `s` is not a literal but a variable.
+**"literal"** A fixed value as appears. E.g. in `Let s = "Any string"`, `"Any string"` is a (string) literal; `s` is not a literal but a variable.
