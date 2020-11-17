@@ -4,4 +4,5 @@
 
 Similarly **mutate** etc..
 
-**"throw an error"** Result in an error.
+**"throw an error"** Result in an error; return/give an error.
+**"parse"** Process.
