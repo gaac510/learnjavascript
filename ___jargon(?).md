@@ -2,7 +2,7 @@
 
 **"mutatation"** Change of parts.
 
-**"mutate" etc.** Similar to the above.
+**"mutate", "immutable" etc.** Similar to the above.
 
 **"throw an error"** Result in / return / give an error.
 
