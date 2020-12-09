@@ -1,6 +1,6 @@
 [FreeCodeCamp: Regular Expressions: Positive and Negative LookaheadPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead)
 
-* May include patters at fixed locations outside lookahead parentheses. 
+* May include patterns at fixed locations outside lookahead parentheses. 
 * Patterns not at an fixed location presumably should be inside the lookahead parentheses.
 
 >A positive lookahead will look to make sure the element in the search pattern is there, _**but won't actually match it**_. A positive lookahead is used as `(?=...)` where the `...` is the required part that is not matched.\
